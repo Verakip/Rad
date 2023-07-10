@@ -6,7 +6,7 @@ This repository could be used as a template for EDA projects.
 Use git clone to install Rad.
 
 ```bash
-git clone https://github.com/Verakip/Rad
+git clone https://github.com/Verakip/Rad.git
 ```
 
 ## Usage
